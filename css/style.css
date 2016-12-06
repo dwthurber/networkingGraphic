@@ -62,8 +62,8 @@ Main components
 
 -------------------------------- */
 header {
-  height: 250px;
-  line-height: 250px;
+  height: 100px;
+  line-height: 100px;
   background-color: #33435a;
 }
 header h1 {
